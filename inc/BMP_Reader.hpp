@@ -4,6 +4,7 @@
 #include <string>
 #include <compare>
 #include <utility>
+#include <fstream>
 namespace BMP {
 #pragma pack(push, 1)
     struct BMPHeader {

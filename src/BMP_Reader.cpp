@@ -50,6 +50,7 @@ namespace BMP{
             
             readHeader();
             readPixels();
+            file_.close();
         }
 
 
@@ -114,7 +115,7 @@ namespace BMP{
             }
         }
         
-        // Записываем строку с выравниванием
+
         outFile.write(reinterpret_cast<const char*>(row.data()), rowSize);
     }
 
