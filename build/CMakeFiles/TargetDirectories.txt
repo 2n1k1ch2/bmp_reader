@@ -1,0 +1,3 @@
+C:/repository/C++/bmp/build/CMakeFiles/main.dir
+C:/repository/C++/bmp/build/CMakeFiles/edit_cache.dir
+C:/repository/C++/bmp/build/CMakeFiles/rebuild_cache.dir
